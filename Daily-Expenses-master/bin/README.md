@@ -1,6 +1,6 @@
 # Daily Expenses
 
-## A S.Y. Java Project using the Swing GUI platform
+## Java Project using the Swing GUI platform
 
 
 #### Tasks achieved till now
@@ -21,7 +21,7 @@ explaining the same
 3. Create a new directory, and write the following commands (basically create another git directory for the project)
 ```
 git init
-git git remote add origin https://github.com/AmeyaDaddikar/Daily-Expenses.git
+git git remote add origin https://github.com/charlesw89/daily-expenses.git
 git pull origin master
 # IF THIS DOES NOT WORK, THEN
 git fetch origin master
